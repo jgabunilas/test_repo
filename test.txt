@@ -2,3 +2,4 @@ some text
 some more text (second commit)
 more text (third commit with ssh key added to ssh-agent)
 more text (fourth commit, ssh test)
+fifth commit, ssh test after creating config file in .ssh/ dir

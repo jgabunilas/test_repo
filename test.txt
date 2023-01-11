@@ -6,4 +6,4 @@ fifth commit, ssh test after creating config file in .ssh/ dir
 sixth commit, no change
 seventh commit, edited config file in .ssh/ dir
 eight commit, added commands to .bash_profile
-ninth commit, same bash instance
+ninth commit, restarted computer, did not add ssh to agent
